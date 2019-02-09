@@ -1,0 +1,6 @@
+documento de texto 
+==================
+-Lorem ipsum dolor1
+-Lorem ipsum dolor2
+-Lorem ipsum dolor3
+
