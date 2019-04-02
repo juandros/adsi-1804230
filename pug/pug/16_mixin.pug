@@ -1,0 +1,12 @@
+doctyoe
+html(lang="es")
+head
+	meta(charset="UTF-8")
+	title Reutilizar codigo
+body
+	h1 Reutilizar codigo
+	mixin.pet(nombre)
+		li.mascota= nombre
+	ul 
+		+mascota('eustacio')
+	
